@@ -37,3 +37,6 @@ img {
      
 }
 
+.main {
+    display: inline-block;
+}
